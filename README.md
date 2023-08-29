@@ -12,8 +12,15 @@
 </div>
 
 ## Tecnologias
-- Python <img align="center" alt="Python" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<!-- [Outras Tecnologias Relevantes]-->
+![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white)
+![Java Badge](https://img.shields.io/badge/-JAVA-C21325?style=flat-square&logo=jv&logoColor=white)
+![Spring Badge](https://img.shields.io/badge/-Spring-C21325?style=flat-Square&logo=Spring&logoColor=white)
+![Node Badge](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
 
 ## Contato
 <a href="mailto:juliamarinetto12@gmail.com">
