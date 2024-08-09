@@ -2,7 +2,7 @@
 <br><br><br>
 
 
-- 💼 Atualmente trabalho como Estágiaria em Desenvolvimento.
+- 💼 Atualmente trabalho como Programadora Junior 1.
 - 🎓 Estou cursando Análise e Desenvolvimento de Sistemas.
 
 ## Estatísticas do GitHub
